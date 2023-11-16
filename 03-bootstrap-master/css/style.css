@@ -22,3 +22,11 @@ body{
 .navbar {
     background-color: red;
 }
+
+.copyright {
+    margin-top: 20px; /* Ajoute de la marge en haut du texte */
+}
+
+.last{
+    background-color: rgb(120, 117, 117);
+}
